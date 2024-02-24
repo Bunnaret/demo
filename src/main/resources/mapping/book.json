@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "author": {
+      "type": "text"
+    },
+    "title": {
+      "type": "text"
+    }
+  }
+}
